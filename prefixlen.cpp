@@ -46,5 +46,5 @@ int main(){
         strs.push_back(temp);
     }
     cout<<longestCommonPrefix(strs)<<endl;
-    return 0;
+    return 1;
 };
